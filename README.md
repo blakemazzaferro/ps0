@@ -1,5 +1,6 @@
 # Problem Set 0
-## Due Wednesday, August 29, 3:00pm
+## Parts 1 and 2: Due Wednesday, August 29, 3:00pm
+## Part 3: Due Wednesday, August 30, 11:59pm
 
 ### Part 1: Create a GitHub account
 1. If you do not have a GitHub account, create one [here](https://github.com/join?source=header-home).
@@ -15,4 +16,11 @@
 
 ### Part 3: Submit to GitHub Classroom
 
-1. 
+After you take the survey, you will be invited to join the GitHub Classroom for this class. After you accept the invitation, you will be able submit problem sets using GitHub Classroom. 
+
+1. Accept the invitation to join the GitHub Classroom.
+
+2. Accept the invitation to complete Problem Set 0.
+
+3. Upload your screenshot and commit. 
+
