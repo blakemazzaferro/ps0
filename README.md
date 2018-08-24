@@ -16,7 +16,7 @@
 
 ### Part 3: Submit to GitHub Classroom
 
-After you take the survey, I will invite you to join the BC-CSCI-1102-F18-MW organization and to complete Problem Set 0. You'll receive emails notifying you of these invitations. Follow the instructions in the email. When you accept the invitation to complete Problem Set 0, GitHub classroom will create a repository for you, do the following:
+After you take the survey, I will invite you to complete Problem Set 0 on GitHub Classroom. You'll receive an email notifying you of this invitation. Follow the instructions in the email. When you accept the invitation to complete Problem Set 0, GitHub classroom will create a repository for you. While in that repository, do the following:
 
 1. Upload your screenshot to your repository.
 
