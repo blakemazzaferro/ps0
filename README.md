@@ -1,6 +1,10 @@
 # Problem Set 0
+## [Click here for up-to-date versions of all files for this assignment](https://github.com/BC-CSCI-1102-F18-MW/ps0)
+
 ## Parts 1 and 2: Due Wednesday, August 29, 3:00pm
 ## Part 3: Due Wednesday, August 30, 11:59pm
+
+---
 
 ### Part 1: Create a GitHub account
 1. If you do not have a GitHub account, create one [here](https://github.com/join?source=header-home).
@@ -21,5 +25,3 @@ After you take the survey, I will invite you to complete Problem Set 0 on GitHub
 1. Upload your screenshot to your repository.
 
 2. Commit.
-
-3. Sleep.
