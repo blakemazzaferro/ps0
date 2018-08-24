@@ -21,3 +21,5 @@ After you take the survey, I will invite you to complete Problem Set 0 on GitHub
 1. Upload your screenshot to your repository.
 
 2. Commit.
+
+3. Sleep.
