@@ -13,7 +13,7 @@
 
 <img src="settings.png" width="150"  />
  
-In the Name field of your Public Profile, enter your name as it appears in Canvas. 
+  In the Name field of your Public Profile, enter your name as it appears in Canvas. 
 
 <img src="profile.png" width="600"  />
 
