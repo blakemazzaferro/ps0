@@ -11,6 +11,10 @@
 
 2. Once you have a GitHub account, edit your profile so that the Name associated with your GitHub user ID *exactly matches* your name in Canvas. We must know the name associated with your GitHub ID so that we can enter your grades correctly in the Canvas gradebook. Go to GitHub, click on the funny geometric icon in the upper right corner, and select Settings. In the Name field of your profile, enter your name as it appears in Canvas. 
 
+ ![settings](./settings.jpeg)
+ ![profile](./img/profile.jpeg)
+ 
+ 
 
 ### Part 2: Course Survey
 
