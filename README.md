@@ -9,7 +9,8 @@
 ### Part 1: Create a GitHub account
 1. If you do not have a GitHub account, create one [here](https://github.com/join?source=header-home).
 
-2. Once you have a GitHub account, edit your profile so that the Name associated with your account *exactly matches* your name in Canvas. You can do this by going to GitHub, signing in, clicking the funny Space Invaders icon on the upper right corner, and selecting "Your profile". We must know the name associated with your GitHub ID so that we can enter your grades correctly in the Canvas gradebook.
+2. Once you have a GitHub account, edit your profile so that the Name associated with your GitHub user ID *exactly matches* your name in Canvas. We must know the name associated with your GitHub ID so that we can enter your grades correctly in the Canvas gradebook. Go to GitHub, click on the funny geometric icon in the upper right corner, and select Settings. In the Name field of your profile, enter your name as it appears in Canvas. 
+
 
 ### Part 2: Course Survey
 
