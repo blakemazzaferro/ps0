@@ -27,3 +27,6 @@ After you take the survey, I will invite you to complete Problem Set 0 on GitHub
 1. Upload your screenshot to your repository.
 
 2. Commit.
+
+## Important Note
+*For each future problem set, you will receive an email "inviting" you to accept the assignment. You will also be able to access the invitation as a link on Canvas under the Assignments area. When you know a problem set is going to be due soon (which you will know from paying attention in class and following the [course schedule](https://docs.google.com/spreadsheets/d/1l9SyJeukRpBjjyKE4N5IbpU2AcpS_MUX8ksVs5GH-rE/edit#gid=305794412)), look out for the email invitation. If you don't get or can't find the invitation, you can simply locate the link on Canvas.* 
