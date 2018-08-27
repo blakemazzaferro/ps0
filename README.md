@@ -32,4 +32,4 @@ After you take the survey, I will invite you to complete Problem Set 0 on GitHub
 
 ---
 
-[In case of changes to this assignment, updated files can be found here (https://github.com/BC-CSCI-1102-F18-MW/ps0)
+[In case of changes to this assignment, updated files can be found here](https://github.com/BC-CSCI-1102-F18-MW/ps0)
