@@ -1,5 +1,4 @@
 # Problem Set 0
-## [Click here for up-to-date versions of all files for this assignment](https://github.com/BC-CSCI-1102-F18-MW/ps0)
 
 ## Parts 1 and 2: Due Wednesday, August 29, 3:00pm
 ## Part 3: Due Wednesday, August 30, 11:59pm
@@ -30,3 +29,7 @@ After you take the survey, I will invite you to complete Problem Set 0 on GitHub
 
 ## Important Note
 *For each future problem set, you will receive an email "inviting" you to accept the assignment. You will also be able to access the invitation as a link on Canvas under the Assignments area. When you know a problem set is going to be due soon (which you will know from paying attention in class and following the [course schedule](https://docs.google.com/spreadsheets/d/1l9SyJeukRpBjjyKE4N5IbpU2AcpS_MUX8ksVs5GH-rE/edit#gid=305794412)), look out for the email invitation. If you don't get or can't find the invitation, you can simply locate the link on Canvas.* 
+
+---
+
+[In case of changes to this assignment, updated files can be found here (https://github.com/BC-CSCI-1102-F18-MW/ps0)
